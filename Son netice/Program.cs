@@ -6,6 +6,8 @@
         {
             int a = 8;
             int b = 10;
+            int c = 20;
+            int d = 30;
         }
     }
 }
